@@ -1,4 +1,4 @@
-# Simple Homepage
+# Simple Homepage 
 
 ## Subtitle
 
